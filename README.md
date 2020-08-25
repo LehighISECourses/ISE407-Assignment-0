@@ -1,5 +1,11 @@
 # Assignment 0
 
+This is Assignment 0 in the Course 
+[ISE 407 "Computation Methods in Optimization"](https://coral.ie.lehigh.edu/~ted/teaching/ie407)
+at Lehigh University. This assignment is meant to get started with Github 
+Classroom, automated testing with Girhub Actions, Makefiles, Julia, C, and
+Python. 
+
 The example project here is written in C, and tested with make and bash
 scripts. Currently, if you run the tests, they will fail because the C code
 actually prints out the wrong thing.
