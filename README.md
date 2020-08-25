@@ -47,3 +47,7 @@ c-test: hello
     either install `gcc` with `homebrew` or modify the Maekfile so that
     `clang` can also be used. Just make sure that `gcc` is used when you check
     in the code so that the testing work.
+   
+## Acknowledgement
+
+Inspired by https://github.com/education/autograding-example-c
